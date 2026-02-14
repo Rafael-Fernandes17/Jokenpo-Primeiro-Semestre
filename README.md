@@ -1,3 +1,7 @@
+![Library](https://img.shields.io/badge/library-random-blue?style=for-the-badge)
+![](https://img.shields.io/badge/ANSI_Escape_Codes-green?style=for-the-badge)
+![Python Version](https://img.shields.io/badge/python-3.x-red?style=for-the-badge)
+
 # 🎮 Jokenpô Terminal Edition
   Um simulador clássico de Pedra, Papel e Tesoura desenvolvido como projeto prático durante o primeiro semestre na PUCPR. O foco principal foi a aplicação de lógica de programação em Python, explorando a criação de uma interface interativa via terminal através de sequências de escape ANSI para uma experiência de usuário (UX) mais visual e intuitiva.
 
