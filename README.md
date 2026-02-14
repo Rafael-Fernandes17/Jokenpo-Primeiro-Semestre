@@ -24,11 +24,15 @@ ANSI Escape Codes: Uso de Sequências de Escape ANSI para feedback visual imedia
 ## 🚀 Como Executar
 Certifique-se de ter o Python instalado em sua máquina.
 
-Clone este repositório: git clone https://github.com/Rafael-Fernandes17/Jokenpo-Primeiro-Semestre.git
+Clone este repositório: 
+```
+git clone https://github.com/Rafael-Fernandes17/Jokenpo-Primeiro-Semestre.git
+```
 
 Navegue até a pasta do projeto e execute: 
+```bash
 python3     jokenpo.py
-
+```
 ## 📝 Lógica de Validação
 O projeto implementa uma lógica de repetição (while True) que garante que o jogo continue até que o usuário decida sair, além de tratar entradas inválidas para evitar erros de execução.
 
