@@ -4,7 +4,7 @@ while True:
         # Menu onde o usuário pode escolher entre jogar ou sair.
         # Usei o \033["numero da cor" "texto" \033[0m para mudar a cor do texto. e para fazer as bordas usei os +, o - para o meio e | para as laterais.
         print("\033[1;34m+" + "-" * 38 + "+\033[0m")
-        print("\033[1;34m|\033[0m     \033[1;31m*** BEM VINDO AO JOKEMPO ***\033[0m     \033[1;34m|\033[0m")
+        print("\033[1;34m|\033[0m     \033[1;31m*** BEM VINDO AO JOKENPÔ ***\033[0m     \033[1;34m|\033[0m")
         print("\033[1;34m|" + " " * 38 + "|\033[0m")
         print("\033[1;34m|\033[0m   \033[1;34mEscolha um modo de jogar:\033[0m          \033[1;34m|\033[0m")
         print("\033[1;34m|" + " " * 38 + "|\033[0m")
@@ -287,4 +287,5 @@ while True:
                         print("-------------------------------------------------------------------------------------------")
                         break
         else:
+
                 print("\n\033[1;37mOpção inválida!\033[0m\n") # caso o jogador escolha uma opção invalida, ele recebe uma mensagem de erro.
